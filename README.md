@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apuromafo   
+- 👋 Hi, I’m @apuromafo  from #Chile
 - 👀 I’m interested in cybersecurity  
 - 🌱 I’m currently learning as Self-taught in Cybersecurity  
 - 💞️ I’m looking to collaborate in proyects interesting , actually work as pentester for a Company(more details in linkedin).  
