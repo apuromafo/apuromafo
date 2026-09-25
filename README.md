@@ -6,7 +6,7 @@
 - 🌐 My site: https://apuromafo.github.io
 
 # Spanish 
-Hola , si deseas contactarme, puedes encontrarme por telegram (t.me/Apuromafo) 
+Hola , si deseas contactarme, puedes encontrarme por telegram ([t.me/Apuromafo](https://t.me/Apuromafo)) 
 en horario hábil (lunes a viernes)
 
 Mi sitio: https://apuromafo.github.io
